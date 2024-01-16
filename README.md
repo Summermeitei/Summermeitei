@@ -1,14 +1,15 @@
 <div style="background-image: url('https://e1.pxfuel.com/desktop-wallpaper/450/472/desktop-wallpaper-for-android-mobile-nature-love-best-nature-mobile-thumbnail.jpg'); background-size: cover; background-position: center; height: 300px;">
   <!-- Your existing content goes here -->
-  <div align="center">
-    <img alt="Coding" src="https://art.ngfiles.com/images/3003000/3003864_moawling_pixel-day-2023-banner.gif" style="width:100%;">
-    <hr style="width:50%; margin-top: 10px;">
-  </div>
-  <!-- Typing SVG -->
+    <!-- Typing SVG -->
   <div align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Lemon&duration=3000&pause=500&color=10394B&background=6F76FF00&center=true&random=false&width=435&lines=My+name+is+Summer;Not+particularly+good+at+anything;Just+learning;%3AD" alt="Typing SVG" />
     </a>
+  <div align="center">
+    <img alt="Coding" src="https://art.ngfiles.com/images/3003000/3003864_moawling_pixel-day-2023-banner.gif" style="width:100%;">
+    <hr style="width:50%; margin-top: 10px;">
+  </div>
+
   <div align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=&duration=3000&pause=500&color=10394B&background=6F76FF00&center=true&random=false&width=435&lines=connect+with+me" alt="Typing SVG" />
