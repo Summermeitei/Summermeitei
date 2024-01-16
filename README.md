@@ -20,6 +20,14 @@
   </a>
 </p>
 
-![Summer's GitHub stats](https://github-readme-stats.vercel.app/api?username=summermeitei&show_icons=true&theme=tokyonight) 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=summermeitei&theme=tokyonight&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <div style="display: inline-block; width: 45%;">
+    <!-- GitHub Stats -->
+    ![Summer's GitHub stats](https://github-readme-stats.vercel.app/api?username=summermeitei&show_icons=true&theme=tokyonight)
+  </div>
+  
+  <div style="display: inline-block; width: 45%;">
+    <!-- GitHub Trophy -->
+    [![trophy](https://github-profile-trophy.vercel.app/?username=summermeitei&theme=tokyonight&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+  </div>
+</div>
