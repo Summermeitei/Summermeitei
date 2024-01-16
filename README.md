@@ -26,5 +26,5 @@
   </div>
 </div>
 <div align="center">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=summermeitei" width="50%" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=summermeitei&theme=tokyonight" width="50%" />
   </div>
