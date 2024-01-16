@@ -21,8 +21,9 @@
   </p>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=summermeitei&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight" width="45%" />
-    <img src="https://github-profile-trophy.vercel.app/?username=summermeitei&theme=tokyonight&column=3&row=2" width="45%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=summermeitei&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight" width="45%" />
+      <hr style="width: 2px; background-color: #fff; height: auto; margin: 0 20px;">
+      <img src="https://github-profile-trophy.vercel.app/?username=summermeitei&theme=tokyonight&column=3&row=2" width="45%" />
   </div>
 
   <!-- Bottom center for joke card and streak stats -->
