@@ -25,9 +25,9 @@
     <img align="right" src="https://github-profile-trophy.vercel.app/?username=summermeitei&theme=tokyonight&column=3&row=2" width="46%" />
   </div>
 
-  <!-- Bottom center for streak stats -->
+  <!-- Bottom center for joke card and streak stats -->
   <div align="center" style="margin-top: 50px;">
-    <img  align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="46%" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=summermeitei&theme=tokyonight" width="46%" />
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="46%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=summermeitei&theme=tokyonight" width="46%" />
   </div>
 </div>
