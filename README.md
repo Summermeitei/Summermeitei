@@ -13,16 +13,16 @@
   <h3 align="center">Connect with me</h3>
   <p align="center">
     <a href="https://twitter.com/NovemberMoon19" target="blank">
-      <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="50" width="50" />
+      <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="60" width="60" />
     </a>
     <a href="https://www.instagram.com/satousama2021/" target="blank">
-      <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="50" width="50" />
+      <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="60" width="60" />
     </a>
     <a href="https://www.youtube.com/channel/UCJG3nPgXQkl9EtOUdBCrxWA" target="blank">
-      <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="50" width="50" />
+      <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="60" width="60" />
     </a>
     <a href="https://t.me/BeWaterMyBestoFrendo" target="blank">
-      <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" height="50" width="50" />
+      <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" height="60" width="60" />
     </a>
   </p>
 
