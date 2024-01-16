@@ -2,7 +2,6 @@
   <img alt="Coding" src="https://art.ngfiles.com/images/3003000/3003864_moawling_pixel-day-2023-banner.gif" style="width:100%;">
   <hr style="width:50%; margin-top: 10px;">
 </div>
-![Background Image](https://e1.pxfuel.com/desktop-wallpaper/450/472/desktop-wallpaper-for-android-mobile-nature-love-best-nature-mobile-thumbnail.jpg)
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/NovemberMoon19" target="blank">
