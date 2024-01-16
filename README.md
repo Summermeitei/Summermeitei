@@ -19,7 +19,7 @@
       <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="60" width="60" />
     </a>
     <a href="https://www.youtube.com/channel/UCJG3nPgXQkl9EtOUdBCrxWA">
-      <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="60" width="60" />
+      <img src="https://img.icons8.com/color/48/000000/youtube-play.png"height="60" width="60" />
     </a>
     <a href="https://t.me/BeWaterMyBestoFrendo">
       <img src="https://img.icons8.com/color/48/000000/telegram-app.png" height="60" width="60" />
