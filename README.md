@@ -10,10 +10,9 @@
       <img src="https://readme-typing-svg.demolab.com?font=Lemon&duration=3000&pause=500&color=10394B&background=6F76FF00&center=true&random=false&width=435&lines=My+name+is+Summer;Not+particularly+good+at+anything;Just+learning;%3AD" alt="Typing SVG" />
     </a>
   </div>
-  <h3 align="center">Connect with me</h3>
-  <p align="center">
-    <a href="https://twitter.com/NovemberMoon19">
-      <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="60" width="60" />
+    <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=&duration=3000&pause=500&color=10394B&background=6F76FF00&center=true&random=false&width=435&lines=connect+with+me" alt="Typing SVG" />
     </a>
     <a href="https://www.instagram.com/satousama2021/">
       <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="60" width="60" />
