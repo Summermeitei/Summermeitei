@@ -23,7 +23,8 @@
       <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="60" width="60" />
     </a>
     <a href="https://www.youtube.com/channel/UCJG3nPgXQkl9EtOUdBCrxWA">
-      <img src="https://img.icons8.com/color/48/000000/youtube-play.png"height="60" width="60" />
+      <img src="![image](https://github.com/Summermeitei/Summermeitei/assets/107537596/a062fde3-61d0-405d-b996-a9d71eb4a154)
+"height="60" width="60" />
     </a>
     <a href="https://t.me/BeWaterMyBestoFrendo">
       <img src="https://img.icons8.com/color/48/000000/telegram-app.png" height="60" width="60" />
