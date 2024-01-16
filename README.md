@@ -21,15 +21,20 @@
   </p>
 
   <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=summermeitei&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=tokyonight" width="45%" />
-      <img src="https://github-profile-trophy.vercel.app/?username=summermeitei&theme=tokyonight&column=3&row=2" width="45%" />
-      <hr style="width: 2px; background-color: #fff; height: auto; margin: 0 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=summermeitei&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=tokyonight" width="45%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=summermeitei&theme=tokyonight&column=3&row=2" width="45%" />
+    <hr style="width: 2px; background-color: #fff; height: auto; margin: 0 20px;">
   </div>
 
   <!-- Bottom center for joke card and streak stats -->
   <div align="center" style="margin-top: 20px;">
-    <img align="left" src="https://readme-jokes.vercel.app/api?&theme=tokyonight" alt="Jokes Card" width="45%" />
-    <img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote Card" width="45%" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=summermeitei&theme=tokyonight" width="45%" />
+    <div style="float: left; width: 45%;">
+      <img src="https://readme-jokes.vercel.app/api?&theme=tokyonight" alt="Jokes Card" width="100%" />
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote Card" width="100%" />
+    </div>
+    <div style="float: right; width: 45%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=summermeitei&theme=tokyonight" width="100%" />
+    </div>
+    <div style="clear: both;"></div>
   </div>
 </div>
