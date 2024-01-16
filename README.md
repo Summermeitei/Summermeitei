@@ -10,7 +10,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Lemon&duration=3000&pause=500&color=10394B&background=6F76FF00&center=true&random=false&width=435&lines=My+name+is+Summer;Not+particularly+good+at+anything;Just+learning;%3AD" alt="Typing SVG" />
     </a>
   </div>
-  <h3 align="center">Connect with me:</h3>
+  <h3 align="center">Connect with me</h3>
   <p align="center">
     <a href="https://twitter.com/NovemberMoon19" target="blank">
       <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="50" width="50" />
