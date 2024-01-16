@@ -1,4 +1,4 @@
-]<!-- Typing -->
+<!-- Typing -->
   <div align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Lemon&duration=3000&pause=500&color=10394B&background=6F76FF00&center=true&random=false&width=435&lines=My+name+is+Summer;Not+particularly+good+at+anything;Just+learning;%3AD" alt="Typing SVG" />
@@ -17,7 +17,6 @@
     </a>
   </div>
     
-    <!-- Socials -->
   <p align="center">
     <a href="https://twitter.com/NovemberMoon19" target="blank">
       <img src="https://github.com/Summermeitei/Summermeitei/assets/107537596/67cba721-b597-4432-be14-bd2984e83b9a" alt="Twitter" height="90" width="90" />
