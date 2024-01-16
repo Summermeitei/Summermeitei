@@ -25,4 +25,6 @@
     <img align="right" src="https://github-profile-trophy.vercel.app/?username=summermeitei&theme=tokyonight&column=3&row=2" width="46%" />
   </div>
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<div align="center">
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=summermeitei" width="50%" />
+  </div>
