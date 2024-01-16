@@ -26,15 +26,3 @@
     <hr style="width: 2px; background-color: #fff; height: auto; margin: 0 20px;">
   </div>
 
-  <!-- Bottom center for joke card and streak stats -->
-  <div align="center" style="margin-top: 20px;">
-    <div style="float: left; width: 45%;">
-      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width="45%" />
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote Card" width="45%" />
-    </div>
-    <div style="float: right; width: 45%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=summermeitei&theme=tokyonight" width="100%" />
-    </div>
-    <div style="clear: both;"></div>
-  </div>
-</div>
