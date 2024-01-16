@@ -27,7 +27,7 @@
   </div>
 
   <!-- Bottom center for streak stats -->
-  <div style="margin-top: 20px;">
+  <div style="margin-top: 50px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=summermeitei&theme=tokyonight" width="50%" />
   </div>
 </div>
