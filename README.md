@@ -27,7 +27,7 @@
 
   <!-- Bottom center for joke card and streak stats -->
   <div style="margin-top: 50px;">
-    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="40%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=summermeitei&theme=tokyonight" width="40%" />
+    <img align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="40%" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=summermeitei&theme=tokyonight" width="40%" />
   </div>
 </div>
