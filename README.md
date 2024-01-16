@@ -5,8 +5,8 @@
     <hr style="width:50%; margin-top: 10px;">
   </div>
     <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lemon&duration=3000&pause=500&color=10394B&background=6F76FF00&center=true&random=false&width=435&lines=My+name+is+Summer;Not+particularly+good+at+anything;Just+learning;%3AD" alt="Typing SVG" />
+  <a align="center" href="https://git.io/typing-svg">
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Lemon&duration=3000&pause=500&color=10394B&background=6F76FF00&center=true&random=false&width=435&lines=My+name+is+Summer;Not+particularly+good+at+anything;Just+learning;%3AD" alt="Typing SVG" />
   </a>
   <h3 align="center">Connect with me:</h3>
   <p align="center">
