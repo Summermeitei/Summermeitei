@@ -3,6 +3,8 @@
 ![Summer's GitHub stats](https://github-readme-stats.vercel.app/api?username=summermeitei&show_icons=true&theme=tokyonight) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=summermeitei&theme=tokyonight&column=3&row=2))](https://github.com/ryo-ma/github-profile-trophy)
+
+<img align="right" alt="Coding" width="400" src="https://art.ngfiles.com/images/3003000/3003864_moawling_pixel-day-2023-banner.gif">
 <!--
 **Summermeitei/Summermeitei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
