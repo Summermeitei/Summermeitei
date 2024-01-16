@@ -36,7 +36,6 @@
   </div>
 </div>
   <div align="center">
-    <img alt="Coding" src="https://art.ngfiles.com/images/3003000/3003864_moawling_pixel-day-2023-banner.gif" style="width:100%;">
     <hr style="width:50%; margin-top: 10px;">
   </div>
   <!-- Typing SVG -->
