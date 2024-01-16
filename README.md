@@ -17,16 +17,16 @@
   </div>
   <p align="center">
     <a href="https://twitter.com/NovemberMoon19" target="blank">
-      <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="50" width="50" />
+      <img src="https://github.com/Summermeitei/Summermeitei/assets/107537596/67cba721-b597-4432-be14-bd2984e83b9a" alt="Twitter" height="50" width="50" />
     </a
     <a href="https://www.instagram.com/satousama2021/">
-      <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="60" width="60" />
+      <img src="https://github.com/Summermeitei/Summermeitei/assets/107537596/e6aff4dd-9d7b-4057-9edf-e87dcadb9fad" alt="Instagram" height="60" width="60" />
     </a>
     <a href="https://www.youtube.com/channel/UCJG3nPgXQkl9EtOUdBCrxWA">
-      <img src="https://github.com/Summermeitei/Summermeitei/assets/107537596/a062fde3-61d0-405d-b996-a9d71eb4a154" height="60" width="60" />
+      <img src="https://github.com/Summermeitei/Summermeitei/assets/107537596/ec962770-b180-45ba-a8e1-c0cd89e4e5c6" height="60" width="60" />
     </a>
     <a href="https://t.me/BeWaterMyBestoFrendo">
-      <img src="https://img.icons8.com/color/48/000000/telegram-app.png" height="60" width="60" />
+      <img src="https://github.com/Summermeitei/Summermeitei/assets/107537596/9ba16ed9-eb6c-4715-a02b-c9d49feaf153" height="60" width="60" />
     </a>
   </p>
 
