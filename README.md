@@ -22,5 +22,5 @@
 
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=summermeitei&show_icons=true&theme=tokyonight" width="45%" />
-  [![trophy](https://github-profile-trophy.vercel.app/?username=summermeitei&theme=tokyonight&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+  <img align="right" src="https://github-profile-trophy.vercel.app/?username=summermeitei&theme=tokyonight&column=3&row=2" width="45%" />
 </div>
