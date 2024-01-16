@@ -27,6 +27,7 @@
 
   <!-- Bottom center for streak stats -->
   <div align="center" style="margin-top: 50px;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=summermeitei&theme=tokyonight" width="60%" />
+    <img  align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=summermeitei&theme=tokyonight" width="60%" />
   </div>
 </div>
