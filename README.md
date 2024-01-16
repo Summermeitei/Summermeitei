@@ -24,9 +24,9 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=summermeitei&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight" width="46%" />
     <img align="right" src="https://github-profile-trophy.vercel.app/?username=summermeitei&theme=tokyonight&column=3&row=2" width="46%" />
   </div>
-</div>
 
-<!-- Bottom center for streak stats -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=summermeitei&theme=tokyonight" width="50%" />
+  <!-- Bottom center for streak stats -->
+  <div style="margin-top: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=summermeitei&theme=tokyonight" width="50%" />
+  </div>
 </div>
