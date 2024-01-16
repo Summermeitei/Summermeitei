@@ -1,6 +1,10 @@
 <div align="center">
   <img alt="Coding" src="https://art.ngfiles.com/images/3003000/3003864_moawling_pixel-day-2023-banner.gif" style="width:100%;">
+  <hr style="width:50%; margin-top: 10px;">
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/NovemberMoon19" target="blank">
