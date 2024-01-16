@@ -1,4 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flutmedia.vn%2Findex.php%2Fgif-Aesthetic-gif-Random-gif-88359.html&psig=AOvVaw26xPIzSyuqiwSRMYCWuaiz&ust=1705477259978000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC_z4a04YMDFQAAAAAdAAAAABAD">
+### Hi there 👋
+
 ![Summer's GitHub stats](https://github-readme-stats.vercel.app/api?username=summermeitei&show_icons=true&theme=tokyonight) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=summermeitei&theme=tokyonight&column=3&row=2))](https://github.com/ryo-ma/github-profile-trophy)
