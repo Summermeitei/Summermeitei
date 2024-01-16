@@ -12,7 +12,7 @@
   </div>
   <h3 align="center">Connect with me</h3>
   <p align="center">
-    <a href="https://twitter.com/NovemberMoon19" target="blank">
+    <a href="https://twitter.com/NovemberMoon19">
       <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="60" width="60" />
     </a>
     <a href="https://www.instagram.com/satousama2021/" target="blank">
