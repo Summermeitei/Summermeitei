@@ -21,12 +21,12 @@
   </p>
 
   <div align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=summermeitei&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight" width="46%" />
-    <img align="right" src="https://github-profile-trophy.vercel.app/?username=summermeitei&theme=tokyonight&column=3&row=2" width="46%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=summermeitei&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight" width="45%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=summermeitei&theme=tokyonight&column=3&row=2" width="45%" />
   </div>
 
   <!-- Bottom center for joke card and streak stats -->
-  <div style="margin-top: 50px;">
+  <div align="center" style="margin-top: 20px;">
     <img align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="40%" />
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=summermeitei&theme=tokyonight" width="40%" />
   </div>
