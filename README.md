@@ -17,7 +17,7 @@
   </div>
   <p align="center">
     <a href="https://twitter.com/NovemberMoon19" target="blank">
-      <img src="https://github.com/Summermeitei/Summermeitei/assets/107537596/67cba721-b597-4432-be14-bd2984e83b9a" alt="Twitter" height="50" width="50" />
+      <img src="https://github.com/Summermeitei/Summermeitei/assets/107537596/67cba721-b597-4432-be14-bd2984e83b9a" alt="Twitter" height="70" width="70" />
     </a
     <a href="https://www.instagram.com/satousama2021/">
       <img src="https://github.com/Summermeitei/Summermeitei/assets/107537596/e6aff4dd-9d7b-4057-9edf-e87dcadb9fad" alt="Instagram" height="60" width="60" />
