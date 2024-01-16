@@ -20,13 +20,13 @@
       <img src="https://github.com/Summermeitei/Summermeitei/assets/107537596/67cba721-b597-4432-be14-bd2984e83b9a" alt="Twitter" height="90" width="90" />
     </a
     <a href="https://www.instagram.com/satousama2021/">
-      <img src="https://github.com/Summermeitei/Summermeitei/assets/107537596/e6aff4dd-9d7b-4057-9edf-e87dcadb9fad" alt="Instagram" height="60" width="60" />
+      <img src="https://github.com/Summermeitei/Summermeitei/assets/107537596/e6aff4dd-9d7b-4057-9edf-e87dcadb9fad" alt="Instagram" height="90" width="90" />
     </a>
     <a href="https://www.youtube.com/channel/UCJG3nPgXQkl9EtOUdBCrxWA">
-      <img src="https://github.com/Summermeitei/Summermeitei/assets/107537596/ec962770-b180-45ba-a8e1-c0cd89e4e5c6" height="60" width="60" />
+      <img src="https://github.com/Summermeitei/Summermeitei/assets/107537596/ec962770-b180-45ba-a8e1-c0cd89e4e5c6" alt="Youtube" height="90" width="90" />
     </a>
     <a href="https://t.me/BeWaterMyBestoFrendo">
-      <img src="https://github.com/Summermeitei/Summermeitei/assets/107537596/9ba16ed9-eb6c-4715-a02b-c9d49feaf153" height="60" width="60" />
+      <img src="https://github.com/Summermeitei/Summermeitei/assets/107537596/9ba16ed9-eb6c-4715-a02b-c9d49feaf153" alt="Telegram" height="90" width="90" />
     </a>
   </p>
 
